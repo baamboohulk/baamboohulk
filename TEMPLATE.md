@@ -27,8 +27,6 @@ baamboohulk@github:~$ ./start.sh
   ```
 </div>
 
-<br>
-
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#c3b9d4" src="https://via.placeholder.com/15/c3b9d4/000000?+text=+" width="25" height="20"/><img alt="#2f2a74" src="https://via.placeholder.com/15/2f2a74/000000?+text=+" width="25" height="20"/><img alt="#614385" src="https://via.placeholder.com/15/614385/000000?+text=+" width="25" height="20"/><img alt="#6f69a7" src="https://via.placeholder.com/15/6f69a7/000000?+text=+" width="25" height="20"/><img alt="#7c6d50" src="https://via.placeholder.com/15/7c6d50/000000?+text=+" width="25" height="20"/>
